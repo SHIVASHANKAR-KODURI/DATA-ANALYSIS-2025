@@ -3,3 +3,4 @@
 [LAB-02](https://github.com/SHIVASHANKAR-KODURI/DATA-ANALYSIS-2025/blob/main/2203A52154_B34_DAUP_LAB_2.ipynb)
 [LAB-03](https://github.com/SHIVASHANKAR-KODURI/DATA-ANALYSIS-2025/blob/main/2203A52154_DAUP_B34_.ipynb)
 [LAB-04](https://github.com/SHIVASHANKAR-KODURI/DATA-ANALYSIS-2025/blob/main/2203A52154_daup_lab4.ipynb)
+[LAB-05](https://github.com/SHIVASHANKAR-KODURI/DATA-ANALYSIS-2025/blob/main/2203a52154_daup_lab-6.ipynb)
